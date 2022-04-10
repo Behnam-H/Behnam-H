@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://behnamh.ir/Behnam%20Haddadian%20CV.pdf](https://behnamh.ir/Behnam%20Haddadian%20CV.pdf)
 
-<p align="center">>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=behnam-h&show_icons=true&locale=en" alt="behnam-h" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=behnam-h&show_icons=true&locale=en" alt="behnam-h" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=behnam-h&show_icons=true&locale=en&layout=compact" alt="behnam-h" /></p>
 
