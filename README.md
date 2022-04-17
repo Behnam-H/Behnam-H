@@ -5,11 +5,11 @@
 
 - 📫 How to reach me **behnam.h1@gmail.com**
 
-- 📄 Know about my experiences [https://behnamh.ir/Behnam%20Haddadian%20CV.pdf](https://behnamh.ir/Behnam%20Haddadian%20CV.pdf)
+- 📄 Know about my experiences: [CV Link](https://behnamh.ir/Behnam%20Haddadian%20CV.pdf)
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=behnam-h&show_icons=true&locale=en" alt="behnam-h" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=behnam-h&show_icons=true&locale=en" alt="behnam-h" />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=behnam-h&show_icons=true&locale=en&layout=compact" alt="behnam-h" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=behnam-h&show_icons=true&locale=en&layout=compact" alt="behnam-h" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=behnam-h" alt="behnam-h" /></a> </p>
 
