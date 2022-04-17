@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Behnam</h1>
 <h3 align="center">A full stack developer</h3>
 
-- 🌱 I’m currently learning **React, and Solidity**
+- 🌱 I’m currently learning: **React, and Solidity**
 
-- 📫 How to reach me **behnam.h1@gmail.com**
+- 📫 How to reach me: **behnam.h1@gmail.com**
 
-- 📄 Know about my experiences [CV](https://behnamh.ir/Behnam%20Haddadian%20CV.pdf)
+- 📄 Know about my experiences: [CV](https://behnamh.ir/Behnam%20Haddadian%20CV.pdf)
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=behnam-h&show_icons=true&locale=en" alt="behnam-h" /></p>
 
